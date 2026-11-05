@@ -32,7 +32,7 @@ And  $V_{out_{theo}} = I_{theo} \cdot Z_{2} = 0.0032*560 = 1,79V$ (hence the cod
 #### experimentation
 Serial Monitor: 
 ```
-Voltage: 1.794 V, Current: 3.20
+Voltage: 1.794 V, Current: 3.20 mA
 ```
 Confirmed!
 
