@@ -29,7 +29,7 @@ void loop() {
   pin_current = current(pin_voltage, R2)
 
   // print to console
-  Serial.println("Voltage: " + String(pin_voltage, 3) + " V, Current: " + String(pin_current, 2));
+  Serial.println("Voltage: " + String(pin_voltage, 3) + " V, Current: " + String(pin_current, 2) + " mA");
   delay(500);
 
 }
